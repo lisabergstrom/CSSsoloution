@@ -1,0 +1,32 @@
+h2 {
+color:black;
+font-size: 52 px;
+font-family: 'Stick No Bills', sans-serif;  
+margin-right: 300px;
+margin-left: 300px;
+
+
+
+
+}
+
+
+.grey-box {
+    background-color:gainsboro;  
+    padding: 50px;
+    width: 800px;
+    font-size: 16px;
+    font-family: 'Stick No Bills', sans-serif;  
+    margin-right: 200px;
+    margin-left: 200px;
+    
+    
+}
+
+
+.grey-box img {
+width: 50%;
+margin-right: 180px;
+margin-left: 180px;
+padding: 5%;
+}
